@@ -1,9 +1,18 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-¡Hola mi nombre es Diego! ==================================================== ==================================================== 
-================= Desarrollador y diseñador web apasionado por la innovación tecnológica ------------------------ ---------------------------------------------- 
+<h1 align="center"><b>Hi , I'm Diego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 
 He estado dedicado al mundo del desarrollo web y el diseño durante más de 5 años. Comencé con HTML y CSS, pero rápidamente descubrí mi pasión por el backend, donde pude profundizar en lenguajes como PHP y frameworks como Laravel. Me encanta transformar ideas en aplicaciones funcionales que resuelvan problemas reales. 
 * 🌍Estoy radicado en Ecuador
@@ -11,7 +20,7 @@ He estado dedicado al mundo del desarrollo web y el diseño durante más de 5 a�
 * 🧠 Estoy aprendiendo React.js para expandir mis habilidades en Desarrollo frontend y mejorar la interactividad de mis aplicaciones web.
 *  🤝 Estoy abierto a colaborar en Proyectos de desarrollo web que busquen innovar y mejorar la experiencia del usuario. Estoy especialmente interesado en aplicaciones que involucran integración con bases de datos y sistemas backend complejos.
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Redes sociales
 
