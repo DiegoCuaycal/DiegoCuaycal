@@ -9,11 +9,12 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-He estado dedicado al mundo del desarrollo web y el diseño durante más de 5 años. Comencé con HTML y CSS, pero rápidamente descubrí mi pasión por el backend, donde pude profundizar en lenguajes como PHP y frameworks como Laravel. Me encanta transformar ideas en aplicaciones funcionales que resuelvan problemas reales. 
+He estado dedicado al mundo del desarrollo web y el diseño. Comencé con HTML y CSS, pero rápidamente descubrí mi pasión por el backend, donde pude profundizar en lenguajes como PHP y frameworks como Laravel. Me encanta transformar ideas en aplicaciones funcionales que resuelvan problemas reales. 
 * 🌍Estoy radicado en Ecuador
 * ✉️ Puedes contactarme a [diegocuaycal77@icloud.com](mailto:diegocuaycal77@icloud.com)[](mailto:diegocuaycal77@icloud.com)
 * 🧠 Estoy aprendiendo React.js para expandir mis habilidades en Desarrollo frontend y mejorar la interactividad de mis aplicaciones web.
-*  🤝 Estoy abierto a colaborar en Proyectos de desarrollo web que busquen innovar y mejorar la experiencia del usuario. Estoy especialmente interesado en aplicaciones que involucran integración con bases de datos y sistemas backend complejos.
+* 🤝 Estoy abierto a colaborar en Proyectos de desarrollo web que busquen innovar y mejorar la experiencia del usuario. Estoy especialmente interesado en aplicaciones que involucran integración con bases de datos y 
+      sistemas backend complejos.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
