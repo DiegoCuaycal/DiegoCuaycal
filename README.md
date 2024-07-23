@@ -70,7 +70,9 @@ He estado dedicado al mundo del desarrollo web y el diseño. Comencé con HTML y
 <br>
 <br>
 
-### Insignias
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+<br>
 
 <b>Mis estadísticas de GitHub</b>
 
