@@ -26,7 +26,7 @@ solutions. With a strong desire to grow, I continuously challenge myself to lear
 and improve, aiming to make meaningful contributions in the tech world.  
 
 - 🌍 Based in Ecuador  
-- ✉️ Reach me at [diegocuaycal77@icloud.com] 
+- ✉️ Reach me at [decuaycalt@utn.edu.ec] 
 - 🌟 Committed to excellence, always striving for growth and innovation.  
 - 🤝 Open to collaborating on projects that inspire creativity and solve
       real-world challenges.  
