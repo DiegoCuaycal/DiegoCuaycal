@@ -38,7 +38,7 @@
   <a href="mailto:diegocuaycal01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/59398791155">
+  <a href="https://wa.me/593985791155">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/diegoernesto_99">
