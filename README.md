@@ -35,7 +35,7 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:diegocuaycal01@gmail.com">
+  <a href="mailto:digital.leo04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/593985791155">
