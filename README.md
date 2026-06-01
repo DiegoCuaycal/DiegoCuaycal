@@ -23,13 +23,13 @@
 </p>
 
 <pre>
-💻 Software Engineer with a strong foundation in full-stack software development.
-🌐 Experience building web solutions with modern frontend and backend technologies.
-📱 Interested in mobile development and cross-platform applications.
-🛠️ Focused on APIs, databases, cloud services and structured software architecture.
-🤖 Passionate about applied artificial intelligence, computer vision and intelligent systems.
-🐧 Comfortable working with development tools, Linux environments and professional workflows.
-🚀 Open to challenging projects where software engineering creates real impact.
+        - 💻 Software Engineer with a strong foundation in full-stack software development.
+        - 🌐 Experience building web solutions with modern frontend and backend technologies.
+        - 📱 Interested in mobile development and cross-platform applications.
+        - 🛠️ Focused on APIs, databases, cloud services and structured software architecture.
+        - 🤖 Passionate about applied artificial intelligence, computer vision and intelligent systems.
+        - 🐧 Comfortable working with development tools, Linux environments and professional workflows.
+        - 🚀 Open to challenging projects where software engineering creates real impact.
 </pre>
 
 <hr>
