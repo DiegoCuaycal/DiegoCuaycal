@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="./assets/software-engineer.gif" width="650" alt="Software Engineer animation">
+  <img src="./assets/software-engineer.gif" width="560" alt="Software Engineer animation">
 </p>
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Diego Cuaycal
 </h1>
 
-<h3 align="center">
-  Software Engineer focused on full-stack development, mobile applications and applied artificial intelligence.
-</h3>
-
 <p align="center">
-  I am a Software Engineer from Universidad Técnica del Norte, Ecuador, passionate about building complete software solutions that combine frontend, backend, mobile development, databases, cloud services and applied artificial intelligence.
-  I enjoy working on challenging projects where technology is used to solve real problems, improve processes and create meaningful digital products.
-  My professional focus is to keep growing as a developer, contribute to high-impact software projects and strengthen my skills across modern development ecosystems.
+  <img src="https://img.shields.io/badge/Software%20Engineer-Full--Stack%20%7C%20Mobile%20%7C%20Applied%20AI-8A2BE2?style=for-the-badge" alt="Software Engineer Badge" />
 </p>
+
+<h4 align="center">
+  <strong>
+    I am a Software Engineer from Universidad Técnica del Norte, Ecuador, focused on building complete software solutions across frontend, backend, mobile development, databases, cloud services and applied artificial intelligence.
+    I enjoy working on challenging projects where technology is used to solve real problems, improve processes and create meaningful digital products.
+    My professional goal is to keep growing as a developer, contribute to high-impact software projects and strengthen my skills across modern development ecosystems.
+  </strong>
+</h4>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=DiegoCuaycal-2026&label=Profile%20views&color=008000&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=DiegoCuaycal-profile-v2&label=Profile%20views&color=008000&style=flat" alt="Profile views" /> 
 </p>
-
-<hr>
 
 <pre>
 💻 Software Engineer with a strong foundation in full-stack software development.
@@ -61,7 +61,7 @@
   <a href="mailto:diegocuaycal01@gmail.com">
     <img src="https://img.shields.io/badge/Email-diegocuaycal01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/diego-cuaycal-69ba22a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-cuaycal-699ba22a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Diego%20Cuaycal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/593967472717" target="_blank">
